@@ -1,0 +1,37 @@
+Google AllStar :
+
+- Github App from goole and Open Source Security Foundation
+
+- it allows to enforce policies on Github repositories so to avoid basic misconfigurations
+
+- When Allstar app indentifies that a repo is out of compliance ( violating any policy )
+  then it can either :
+
+  - Log the failure and do nothing 
+
+  - Can open a github issue 
+
+  - Or can automatically fix issue -> which makes easier for developers
+
+
+CAn set policies at org level or repo level 
+
+- first need to intall the app in github
+
+-  need to create repo of name .allstar.
+   and files ( allstar.yml , branch_protection.yml , outside.yml , security.yml )
+
+
+
+Two modes : 
+
+Opt in
+Opt Out ( recommended )
+
+
+Policies :
+
+Branch Protection policies 
+Binary Artifacts Policy
+Outside Collaborators
+Security.md
