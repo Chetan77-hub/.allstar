@@ -33,5 +33,26 @@ Policies :
 
 Branch Protection policies 
 Binary Artifacts Policy
+
+
+Branck Protection Policies : 
+
+Require pull request reviews before merging
+
+Require status checks before merging
+
+Require conversation resolution before merging
+
+Require signed commits
+
+Require linear history
+
+Include administrators
+
+Restrict who can push to matching branches
+
+Allow force pushes
+
+Allow deletions
 Outside Collaborators
 Security.md
