@@ -19,7 +19,7 @@ CAn set policies at org level or repo level
 - first need to intall the app in github
 
 -  need to create repo of name .allstar.
-   and files ( allstar.yml , branch_protection.yml , outside.yml , security.yml )
+   and files ( allstar.yml , branch_protection.yml ,   outside.yml , security.yml )
 
 
 
