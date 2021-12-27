@@ -31,28 +31,33 @@ Opt Out ( recommended )
 
 Policies :
 
-Branch Protection policies 
-Binary Artifacts Policy
+1) Branch Protection policies :
+
+        - Require pull request reviews before merging
+
+        - Require status checks before merging
+
+        - Require conversation resolution before merging
+
+        - Require signed commits
+
+        - Require linear history
+
+        - Include administrators
+
+        - Restrict who can push to matching branches
+
+        - Allow force pushes
+
+        - Allow deletions
+
+2) Binary Artifacts Policy : 
+        
+        - no binary artifacts in repo  
 
 
-Branck Protection Policies : 
 
-Require pull request reviews before merging
+3) Outside Collaborators
 
-Require status checks before merging
-
-Require conversation resolution before merging
-
-Require signed commits
-
-Require linear history
-
-Include administrators
-
-Restrict who can push to matching branches
-
-Allow force pushes
-
-Allow deletions
-Outside Collaborators
-Security.md
+4) Security.md
+         - Security md file required
